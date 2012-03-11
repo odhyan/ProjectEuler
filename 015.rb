@@ -1,5 +1,7 @@
 #!/usr/bin/env ruby
 
+#This problem can be solved by combinatorics but I love DP :-)
+
 n = 20
 dp = []
 for i in 0..n
